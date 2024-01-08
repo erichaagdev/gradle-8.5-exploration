@@ -1,0 +1,2 @@
+[libraries]
+commons-text = { group = "org.apache.commons", name = "commons-text", version = "1.11.0" }
